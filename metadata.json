@@ -1,0 +1,6 @@
+{
+  "name": "BuildMenu.in Admin — Catering & Banquet Operations Suite",
+  "description": "End-to-end catering and banquet operations portal (buildmenu.in/admin) covering menu building, recipe costing, CRM, WhatsApp quotes, KOT scaling, inventory, staff roster, GST invoicing, and live client e-menus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
